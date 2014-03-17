@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web_loggers_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="web_loggers_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/web_loggers_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="39" selection-start="265" selection-end="265" vertical-scroll-proportion="0.22678186" vertical-offset="0" max-vertical-offset="463">
+            <state line="7" column="39" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="6" selection-start="418" selection-end="418" vertical-scroll-proportion="0.3887689" vertical-offset="0" max-vertical-offset="463">
               <folding />
             </state>
           </provider>
@@ -54,15 +63,6 @@
         <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rakefile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
@@ -88,6 +88,7 @@
         <option value="$PROJECT_DIR$/app/models/web_logger.rb" />
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -822,7 +823,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/web_loggers_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="39" selection-start="265" selection-end="265" vertical-scroll-proportion="0.22678186" vertical-offset="0" max-vertical-offset="463">
+        <state line="7" column="39" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="6" selection-start="418" selection-end="418" vertical-scroll-proportion="0.3887689" vertical-offset="0" max-vertical-offset="463">
           <folding />
         </state>
       </provider>
